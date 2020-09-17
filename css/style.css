@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#header .container-fluid{
+    background-color: crimson;
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.cart-title{
+    font-size: 2rem;
+}
